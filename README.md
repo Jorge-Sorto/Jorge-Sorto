@@ -56,3 +56,6 @@ En lo personal considero que todos los temas tuvieron su propio nivel de dificul
 
 ### Bitácora de aprendizaje
 - [Practicas realizadas](https://github.com/Jorge-Sorto/Practicas-semanales.git)
+
+### Conclusion
+Bueno, en conclusion considero que a lo largo de estos dos computos eh adquiridos diversos conocimientos que me seran bastante utiles a lo lago de mi carrera y que muy seguramente podre poner en practica a nivel profesional una vez me gradue. Dichos temas importantes serian la creacion de un crud con laravel, crear una api, como conectar una base de datos aun proyecto, etc. Yo personalmente me comprometo a mejorar este ultimo computo y los que siguen para poder aprender todo lo necesario y poder ser un buen programador.
