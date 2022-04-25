@@ -31,5 +31,28 @@ controladores)
 - 2.9 Blade: sistema de plantillas avanzado
 - 2.10 Trabajando con Laravel/UI
 
-Calendarizacion
+### Jornalización
+- [Jornalización](https://drive.google.com/file/d/1u-RmL9PM0FtP3hJh5QcDu_69fGNCV0sH/view?usp=sharing)
+
+### Calendarizacion
 - [Calendarizacion](https://drive.google.com/file/d/1scUlghrA-ITA7m2Up4KgOifJ-ervS9v5/view?usp=sharing)
+
+### Carta de presentacion
+Hola, mi nombre es Jorge Balmore Sorto Rodríguez, tengo 19 años y actualmente me encuentro cursando el tercer año de la carrera de Ing. En Sistemas y Redes Informáticas en la Universidad General Gerardo Barrios en San Miguel.
+
+Algunos de los objetivos academicos que espero lograr son:
+- Pasar todas las materias con buenas notas
+- No reprobar ninguna materia
+- Entregar todas mis tareas a tiempo y prestar mas atencion en clases
+- Adquirir mayores coconimientos de la asignatura
+
+Algunos conocimientos que eh podido adquirir a lo largo de los computos son:
+- Crear una base de datos
+- conectar una base de datos a un proyecto de laravel
+- crear un crud con laravel
+- crear y consumir una api
+
+En lo personal considero que todos los temas tuvieron su propio nivel de dificultad y complejidad pero creo que logré superar dicho obstaculo y aprender lo necesaro de cada tema.
+
+### Bitácora de aprendizaje
+- [Practicas realizadas](https://github.com/Jorge-Sorto/Practicas-semanales.git)
