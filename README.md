@@ -1,6 +1,9 @@
 <!--
 **Jorge-Sorto/Jorge-Sorto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+### Introduccion
+En el siguiente portafolio podra encontrar una descripcion de la asignatura de programacion computacional IV, los contenidos vistos en los dos primeros computos de la asignatura como la jornalización de la misma y la candelarizacion. Un apartado donde el autor de dicho portafolio expresa sus metas para con la asigatura asi como tambien sus concocimientos adquiridos y dificultades que sufrio y por ultimo una pequeña conclusion de lo que se aprendio.
+
 ### Descripción de la asignatura
 Los estudiantes comprenden y aplican los lenguajes y 
 tecnologías para el desarrollo de aplicaciones para 
