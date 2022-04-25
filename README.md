@@ -30,3 +30,6 @@ servidor y base de datos.
 controladores)
 - 2.9 Blade: sistema de plantillas avanzado
 - 2.10 Trabajando con Laravel/UI
+
+Calendarizacion
+- [Calendarizacion](https://drive.google.com/file/d/1scUlghrA-ITA7m2Up4KgOifJ-ervS9v5/view?usp=sharing)
